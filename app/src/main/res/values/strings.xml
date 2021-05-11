@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WhereLoc</string>
+    <string name="postalAddress">PostalAddress</string>
+    <string name="address">Address</string>
+</resources>
